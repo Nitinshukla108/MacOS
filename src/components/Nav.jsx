@@ -24,6 +24,9 @@ const Nav = () => {
         <div className="nav-item">
             <p>Terminal</p>
         </div>
+        <div className="nav-item-info">
+            <p>You can re-size the mac-window and by clicking the red button you can close it</p>
+        </div>
 
         </div>
         <div className="right">
