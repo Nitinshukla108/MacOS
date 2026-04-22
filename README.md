@@ -5,6 +5,14 @@ This project simulates a desktop environment with a **dock, windows, and CLI ter
 
 ---
 
+
+## 🚀 Live Demo
+
+🔗 **Live Preview:**  
+https://mac-os-psi.vercel.app/
+
+
+
 ## 🚀 Features
 
 - 🖥️ MacOS-style Desktop Interface
