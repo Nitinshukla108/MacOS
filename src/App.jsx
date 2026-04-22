@@ -16,7 +16,7 @@ const App = () => {
     github: false,
     note :false,
     resume :false,
-    Spotify :false,
+    spotify :false,
     cli :false
   })
 
